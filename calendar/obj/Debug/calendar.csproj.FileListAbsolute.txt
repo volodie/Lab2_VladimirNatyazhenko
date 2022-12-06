@@ -1,0 +1,8 @@
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\bin\Debug\calendar.exe.config
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\bin\Debug\calendar.exe
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\bin\Debug\calendar.pdb
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\obj\Debug\calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\obj\Debug\calendar.exe
+C:\Users\v.natyazhenko\source\repos\calendar\calendar\obj\Debug\calendar.pdb
